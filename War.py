@@ -185,3 +185,4 @@ def battle(cardA,cardB):
 
 fd.write("\n----------- Lets start the Game!----------------\n")
 Start_game(computer,player)
+fd.close()
